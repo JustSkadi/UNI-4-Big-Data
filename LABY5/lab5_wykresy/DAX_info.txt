@@ -1,0 +1,80 @@
+=== Zadanie 2 ===
+
+Dane z pliku: DAX_data_2025-03-31.csv
+Liczba rekordów: 2599
+Brakujące wartości: 0
+
+Statystyka Close:
+Min: 8441.7099609375
+Max: 23419.48046875
+Średnia: 13555.641112341886
+Odchylenie std: 2770.343551947955
+
+Statystyka High:
+Min: 8668.48046875
+Max: 23476.009765625
+Średnia: 13636.255123289606
+Odchylenie std: 2770.4030272922255
+
+Statystyka Low:
+Min: 8255.650390625
+Max: 23240.560546875
+Średnia: 13468.748956554804
+Odchylenie std: 2765.3330207369972
+
+Statystyka Open:
+Min: 8495.9404296875
+Max: 23295.720703125
+Średnia: 13554.904611373966
+Odchylenie std: 2766.335537376399
+
+Statystyka Volume:
+Min: 0
+Max: 400165400
+Średnia: 84033843.63216622
+Odchylenie std: 34200968.11180981
+
+=== Zadanie 3 ===
+
+  Średnia: 16277.45
+  Mediana: 15766.54
+  Odchylenie std: 2317.31
+  Kwantyl 25%: 15035.80
+  Kwantyl 75%: 17920.54
+  Skośność: 0.85
+  Kurtoza: 0.59
+
+Cechy czasowe:
+  Ostatnia MA_50: 22331.30
+  Ostatnia MA_200: 19856.64
+  Ostatnia wartość zmienności 21-dniowej: 326.52
+
+Dekompozycja sezonowa:
+  Trend: nan
+  Sezonowość: 434.96
+  Reszta: nan
+
+=== Zadanie 4 ===
+
+Porównanie czasów wykonania metod:
+  Transformata Fouriera: 0.0058s, 2599 cech
+  Transformata falkowa: 0.0000s, 2048 cech
+  Autokorelacja: 0.0000s, 41 cech
+  Wykrywanie ekstremów: 0.0020s, 6 cech
+
+=== Zadanie 5 ===
+
+Podsumowanie ekstrakcji cech:
+  Średnia: 16277.45
+  Odchylenie standardowe: 2317.31
+  Skośność: 0.85
+  Kurtoza: 0.59
+  Ostatnia wartość MA50: 22331.30
+  Ostatnia wartość MA200: 19856.64
+  Zmienność (21 dni): 326.52
+
+Wydajność metod ekstrakcji cech:
+  Transformata Fouriera: 0.0058 sekund
+  Transformata falkowa: 0.0000 sekund
+  Autokorelacja: 0.0000 sekund
+  Wykrywanie ekstremów: 0.0020 sekund

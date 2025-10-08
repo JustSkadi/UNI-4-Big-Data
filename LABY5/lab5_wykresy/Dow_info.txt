@@ -1,0 +1,80 @@
+=== Zadanie 2 ===
+
+Dane z pliku: Dow_Jones_Industrial_Average_data_2025-03-31.csv
+Liczba rekordów: 2576
+Brakujące wartości: 0
+
+Statystyka Close:
+Min: 15660.1796875
+Max: 45014.0390625
+Średnia: 28047.206700674495
+Odchylenie std: 7588.2573051258205
+
+Statystyka High:
+Min: 15897.8203125
+Max: 45073.62890625
+Średnia: 28193.48715304736
+Odchylenie std: 7623.557575049504
+
+Statystyka Low:
+Min: 15370.330078125
+Max: 44799.73828125
+Średnia: 27885.251131993642
+Odchylenie std: 7550.859882062317
+
+Statystyka Open:
+Min: 15676.259765625
+Max: 45054.359375
+Średnia: 28044.032211777587
+Odchylenie std: 7587.525894963367
+
+Statystyka Volume:
+Min: 40350000
+Max: 1230150000
+Średnia: 305958718.94409937
+Odchylenie std: 143226985.71294627
+
+=== Zadanie 3 ===
+
+  Średnia: 36058.68
+  Mediana: 34765.28
+  Odchylenie std: 3700.82
+  Kwantyl 25%: 33631.01
+  Kwantyl 75%: 38711.52
+  Skośność: 0.77
+  Kurtoza: -0.30
+
+Cechy czasowe:
+  Ostatnia MA_50: 43388.54
+  Ostatnia MA_200: 42129.73
+  Ostatnia wartość zmienności 21-dniowej: 713.14
+
+Dekompozycja sezonowa:
+  Trend: nan
+  Sezonowość: 326.66
+  Reszta: nan
+
+=== Zadanie 4 ===
+
+Porównanie czasów wykonania metod:
+  Transformata Fouriera: 0.0000s, 2576 cech
+  Transformata falkowa: 0.0000s, 2048 cech
+  Autokorelacja: 0.0000s, 41 cech
+  Wykrywanie ekstremów: 0.0000s, 6 cech
+
+=== Zadanie 5 ===
+
+Podsumowanie ekstrakcji cech:
+  Średnia: 36058.68
+  Odchylenie standardowe: 3700.82
+  Skośność: 0.77
+  Kurtoza: -0.30
+  Ostatnia wartość MA50: 43388.54
+  Ostatnia wartość MA200: 42129.73
+  Zmienność (21 dni): 713.14
+
+Wydajność metod ekstrakcji cech:
+  Transformata Fouriera: 0.0000 sekund
+  Transformata falkowa: 0.0000 sekund
+  Autokorelacja: 0.0000 sekund
+  Wykrywanie ekstremów: 0.0000 sekund
