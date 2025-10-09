@@ -1,7 +1,0 @@
-numpy
-pandas
-matplotlib
-statsmodels
-scipy
-scikit-learn
-PyWavelets
