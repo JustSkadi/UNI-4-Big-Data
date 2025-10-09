@@ -1,0 +1,80 @@
+=== Zadanie 2 ===
+
+Dane z pliku: Bovespa_data_2025-03-31.csv
+Liczba rekordów: 2539
+Brakujące wartości: 0
+
+Statystyka Close:
+Min: 37497.0
+Max: 137344.0
+Średnia: 92974.2059866089
+Odchylenie std: 27218.769844871982
+
+Statystyka High:
+Min: 38031.0
+Max: 137469.0
+Średnia: 93772.7132729421
+Odchylenie std: 27331.245013022814
+
+Statystyka Low:
+Min: 37046.0
+Max: 136664.0
+Średnia: 92141.42851516345
+Odchylenie std: 27103.21476964309
+
+Statystyka Open:
+Min: 37501.0
+Max: 137349.0
+Średnia: 92943.62780622292
+Odchylenie std: 27222.033207569373
+
+Statystyka Volume:
+Min: 0
+Max: 26029300
+Średnia: 7343198.188263096
+Odchylenie std: 4255026.301749295
+
+=== Zadanie 3 ===
+
+  Średnia: 117754.37
+  Mediana: 118010.50
+  Odchylenie std: 9611.29
+  Kwantyl 25%: 110066.00
+  Kwantyl 75%: 126447.75
+  Skośność: -0.11
+  Kurtoza: -1.01
+
+Cechy czasowe:
+  Ostatnia MA_50: 126419.82
+  Ostatnia MA_200: 127781.31
+  Ostatnia wartość zmienności 21-dniowej: 4018.38
+
+Dekompozycja sezonowa:
+  Trend: nan
+  Sezonowość: -579.22
+  Reszta: nan
+
+=== Zadanie 4 ===
+
+Porównanie czasów wykonania metod:
+  Transformata Fouriera: 0.0000s, 2539 cech
+  Transformata falkowa: 0.0000s, 2048 cech
+  Autokorelacja: 0.0000s, 41 cech
+  Wykrywanie ekstremów: 0.0020s, 6 cech
+
+=== Zadanie 5 ===
+
+Podsumowanie ekstrakcji cech:
+  Średnia: 117754.37
+  Odchylenie standardowe: 9611.29
+  Skośność: -0.11
+  Kurtoza: -1.01
+  Ostatnia wartość MA50: 126419.82
+  Ostatnia wartość MA200: 127781.31
+  Zmienność (21 dni): 4018.38
+
+Wydajność metod ekstrakcji cech:
+  Transformata Fouriera: 0.0000 sekund
+  Transformata falkowa: 0.0000 sekund
+  Autokorelacja: 0.0000 sekund
+  Wykrywanie ekstremów: 0.0020 sekund
